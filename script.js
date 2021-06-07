@@ -20,7 +20,7 @@ function multiplication () {
 
   h = parseInt(h)
 
-  result = 1/2 * (base1 + base2) * h
+  result = 1 / 2 * (base1 + base2) * h
 
   result = parseInt(result)
 
