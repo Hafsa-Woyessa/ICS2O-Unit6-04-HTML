@@ -14,16 +14,16 @@ function multiplication () {
 
   base2 = document.getElementById('base2').value
 
-  base2  = parseInt(base2)
+  base2 = parseInt(base2)
 
   h = document.getElementById('h').value
 
   h = parseInt(h)
 
-result = 1/2*(base1 + base2) *h
+  result = 1/2 * (base1 + base2) * h
 
-result = parseInt(result)
+  result = parseInt(result)
 
- alert(result)
+  alert(result)
 }
 // The function result tells the code what equation to follow and gives us the result of our equation. The alert button displays the result of the equation on top of the users screen.
